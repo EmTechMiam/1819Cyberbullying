@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "page1",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 82,
     "versionPublish": "4.6.5",
@@ -503,7 +503,7 @@
         }
       ]
     },
-    "group 4 home.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Home",
